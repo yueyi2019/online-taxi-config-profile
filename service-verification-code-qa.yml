@@ -1,6 +1,6 @@
 #服务端口
 server: 
-  port: 8001
+  port: 8011
 
 #应用名称及验证账号
 spring: 
