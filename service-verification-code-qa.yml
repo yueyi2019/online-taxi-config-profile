@@ -1,6 +1,4 @@
-#服务端口
-server: 
-  port: 8011
+
 
 
 env: branch-master-qa-1005
