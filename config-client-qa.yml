@@ -1,5 +1,5 @@
 
-env: qa
+env: master-qa
 
 server: 
   port: 8012
